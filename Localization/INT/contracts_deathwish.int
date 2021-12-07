@@ -1,0 +1,15 @@
+[Yoshi_SnatcherContract_DeathWish_MoreWalls_ShipShape]
+Title = Shifting Tides
+Objective = Complete 18 tasks, no big deal.
+NoMiss = Complete 10 tasks without missing one
+FewHits = Don't let your health drop to 1 HP
+Condition = Your routes will change with each task completed.
+Tip0 = Be prepared to take some [name]interesting routes[/name] during this seaboard scuttle...
+
+[Yoshi_SnatcherContract_DeathWish_ShipShapeEXPlus]
+Title = Surviving the Storm
+Objective = Complete 40 tasks
+NoMiss = Complete 40 tasks without missing one
+More = Become a Legend and complete 70 tasks
+Condition = Your routes will change significantly with each task completed.
+Tip0 = Oh boy, I just [wave]love[/wave] this one! 
